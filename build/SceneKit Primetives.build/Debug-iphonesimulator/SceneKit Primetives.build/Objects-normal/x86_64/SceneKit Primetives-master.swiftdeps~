@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "8a77008227d9a0eccc87dd235bd98ff8"
+build_time: [1548445232, 88970000]
+inputs:
+  "/Users/laserino/Desktop/Projects/swift-\u043C\u043E\u0434\u0443\u043B\u044C3/8/SceneKit Primetives/SceneKit Primetives/ViewController.swift": [1548445226, 0]
+  "/Users/laserino/Desktop/Projects/swift-\u043C\u043E\u0434\u0443\u043B\u044C3/8/SceneKit Primetives/SceneKit Primetives/AppDelegate.swift": [1548445226, 0]
